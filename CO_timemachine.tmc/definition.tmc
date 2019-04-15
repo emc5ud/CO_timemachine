@@ -1,0 +1,52 @@
+{
+  "sort_by": "filename",
+  "source": {
+    "type": "images",
+    "images": [
+      [
+        "/Users/eculbertson/astraea/astraea_data/composite_20190302_to_20190308.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190303_to_20190309.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190304_to_20190310.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190305_to_20190311.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190306_to_20190312.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190307_to_20190313.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190308_to_20190314.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190309_to_20190315.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190310_to_20190316.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190311_to_20190317.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190312_to_20190318.jpg",
+        "/Users/eculbertson/astraea/astraea_data/composite_20190313_to_20190319.jpg"
+      ]
+    ],
+    "capture_times": [
+      [
+        0,
+        2.5,
+        5,
+        7.5,
+        10,
+        12.5,
+        15,
+        17.5,
+        20,
+        22.5,
+        25,
+        27.5
+      ]
+    ],
+    "capture_time_parser": "/Applications/Time Machine Creator.app/Contents/ct/extract_exif_capturetimes.rb",
+    "tilesize": 512
+  },
+  "videosets": [
+    {
+      "type": "h.264",
+      "label": "720p",
+      "size": [
+        1280,
+        720
+      ],
+      "compression": 26,
+      "fps": "12"
+    }
+  ]
+}
